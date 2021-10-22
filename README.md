@@ -8,4 +8,4 @@ Manage packages on an Orchestrator server utilizing the Orchestrator API.
 
 ## Owner
 
-[Michael A.](https://linkedin.com/in/magarenzo)
+[Michael Agarenzo](https://linkedin.com/in/magarenzo), Technical Account Manager at UiPath
